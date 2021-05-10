@@ -1,5 +1,5 @@
 This was a project to build a PostgreSQL database of historical stock data pulled from the Polygon.io stock data API.
-- This was my first time building a database. 
+ 
 - If you'd like to use it you'll need a subscription to the Polygon.io service.
 - Be sure to replace 'YOUR_API_KEY' in the polygon_functions_and_keys file with your actual Polygon API key.
 - Naturally you'll need Postgres installed.
@@ -9,3 +9,4 @@ This was a project to build a PostgreSQL database of historical stock data pulle
 - It didn't run completely cleanly through the entire list due to unforseen and aformentioned variations in the data. I was using us_tickers_list as my list of tickers to build the database (which you shouldn't use because it contains A LOT of tickers that don't have price data. Use db_tickers instead). I made a copy of us_tickers_list at the beginning and named it us_tickers_list2, and every time the program hung up and stopped on a certain ticker I just deleted that ticker and all tickers before it from us_tickers_list2 and ran the program from that point. Not ideal, obviously, but it worked fairly cleanly.
 - There is a repo from another guy on here that uses Pandas and you should probably use that one if you just want daily data. I did it without Pandas because I'm a glutton for punishment.
 - It's not done very cleanly because I started the project without a clearly defined scope. I aimed too big at first then ended up getting more specific with functions later.
+- This was my first time building a database.
