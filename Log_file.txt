@@ -1,0 +1,3 @@
+
+NAKD_15_min table not created. Exception: relation "NAKD_15_min" already exists
+SNDL_daily price data not inserted. Exception: integer out of range

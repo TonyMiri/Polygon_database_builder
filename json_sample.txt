@@ -1,0 +1,797 @@
+{
+  "page": 1,
+  "perPage": 50,
+  "count": 125422,
+  "status": "OK",
+  "tickers": [
+    {
+      "ticker": "A",
+      "name": "Agilent Technologies Inc.",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NYE",
+      "updated": "2021-04-24",
+      "codes": {
+        "cik": "0001090872",
+        "scfigi": "BBG001SCTQY4",
+        "cfigi": "BBG000C2V3D6",
+        "figi": "BBG000C2V3D6"
+      },
+      "url": "https://api.polygon.io/v2/tickers/A"
+    },
+    {
+      "ticker": "AA",
+      "name": "Alcoa Corporation",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NYE",
+      "updated": "2021-04-24",
+      "codes": {
+        "cik": "0001675149",
+        "scfigi": "BBG00B3T3HF1",
+        "cfigi": "BBG00B3T3HD3",
+        "figi": "BBG00B3T3HD3"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AA"
+    },
+    {
+      "ticker": "AAA",
+      "name": "AAF First Priority CLO Bond ETF",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "ARCA",
+      "updated": "2020-09-10",
+      "url": "https://api.polygon.io/v2/tickers/AAA"
+    },
+    {
+      "ticker": "AAAG",
+      "name": "AAA Century Group USA Inc",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "GREY",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0001451947",
+        "figiuid": "EQ0000000017880153",
+        "scfigi": "BBG001V28ND5",
+        "cfigi": "BBG001R3MPR2",
+        "figi": "BBG001R3MQ72"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAAG"
+    },
+    {
+      "ticker": "AAAIF",
+      "name": "Alternative Investment Trust Units (Austrailia)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000021131053",
+        "scfigi": "BBG001SPVKJ2",
+        "cfigi": "BBG0029J1X37",
+        "figi": "BBG0029J1X37"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAAIF"
+    },
+    {
+      "ticker": "AAALF",
+      "name": "Aareal Bank AG AKT",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000000233556",
+        "scfigi": "BBG001SG8HX9",
+        "cfigi": "BBG000PL5HY5",
+        "figi": "BBG000PL5HY5"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAALF"
+    },
+    {
+      "ticker": "AAALY",
+      "name": "Aareal Bank AG Unsponsored American Depository Receipt (Germany)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000020573680",
+        "scfigi": "BBG002628F57",
+        "cfigi": "BBG002628DF1",
+        "figi": "BBG002628DX1"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAALY"
+    },
+    {
+      "ticker": "AAAP",
+      "name": "Wool Industry Tria Alfa S.A..",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "PFD",
+      "currency": "EUR",
+      "active": true,
+      "primaryExch": "NGS",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0016246000100000",
+        "scfigi": "BBG001S7LXQ7",
+        "cfigi": "BBG000C06GP6",
+        "figi": "BBG000C06H01"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAAP"
+    },
+    {
+      "ticker": "AAARF",
+      "name": "Aluar Aluminio Argentino Sa Alua Ordinary Shares 1 Vote (Argentina)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000008276662",
+        "scfigi": "BBG001S8KMC5",
+        "cfigi": "BBG000RV3PZ4",
+        "figi": "BBG000RV3PZ4"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAARF"
+    },
+    {
+      "ticker": "AAAU",
+      "name": "Goldman Sachs Physical Gold ETF Shares",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "ARCA",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0001708646",
+        "figiuid": "EQ0000000067365924",
+        "scfigi": "BBG00LPXX8Z1",
+        "cfigi": "BBG00LPXX872",
+        "figi": "BBG00LPXX8D5"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAAU"
+    },
+    {
+      "ticker": "AABA",
+      "name": "Altaba Inc",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NGS",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0001011006",
+        "figiuid": "EQ0018613000001000",
+        "scfigi": "BBG001S8V781",
+        "cfigi": "BBG000GFFQN9",
+        "figi": "BBG000GFJ6R5"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AABA"
+    },
+    {
+      "ticker": "AABB",
+      "name": "Asia Broadband Inc Common Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0001287145",
+        "figiuid": "EQ0141430200001000",
+        "scfigi": "BBG001SGRBK5",
+        "cfigi": "BBG000CWNRN5",
+        "figi": "BBG000CWQ337"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AABB"
+    },
+    {
+      "ticker": "AABNF",
+      "name": "Altin AG",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "GREY",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000000079852",
+        "scfigi": "BBG001SK3BC1",
+        "cfigi": "BBG000BTWFQ6",
+        "figi": "BBG000BTWFQ6"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AABNF"
+    },
+    {
+      "ticker": "AABVF",
+      "name": "Aberdeen International Inc Ordinary Shares",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0011010800001003",
+        "scfigi": "BBG001S6XZ90",
+        "cfigi": "BBG000BXKHJ4",
+        "figi": "BBG000BXKQW9"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AABVF"
+    },
+    {
+      "ticker": "AAC",
+      "name": "Ares Acquisition Corporation",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "SEK",
+      "active": true,
+      "primaryExch": "NYE",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000037820666",
+        "scfigi": "BBG0077N8Z46",
+        "cfigi": "BBG0077N8YF7",
+        "figi": "BBG00FB2RV10"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAC"
+    },
+    {
+      "ticker": "AAC U",
+      "name": "Ares Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fifth of",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NYE",
+      "updated": "2021-02-02",
+      "url": "https://api.polygon.io/v2/tickers/AAC U"
+    },
+    {
+      "ticker": "AAC.WS",
+      "name": "Ares Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ord",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NYE",
+      "updated": "2021-03-26",
+      "url": "https://api.polygon.io/v2/tickers/AAC.WS"
+    },
+    {
+      "ticker": "AACAF",
+      "name": "AAC Technologies Holdings Inc Ordinary Shares (Cayman Islands)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000002305614",
+        "scfigi": "BBG001SKMWN2",
+        "cfigi": "BBG000C3S2Q6",
+        "figi": "BBG000C3S8L8"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AACAF"
+    },
+    {
+      "ticker": "AACAY",
+      "name": "AAC Technologies Holdings Inc Unsponsored ADR (Cayman Islands)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000007139171",
+        "scfigi": "BBG001T3PT80",
+        "cfigi": "BBG000VNTB62",
+        "figi": "BBG000VNTFR0"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AACAY"
+    },
+    {
+      "ticker": "AACEY",
+      "name": "Asia Cement China Holdings Corp",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTO",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000007561310",
+        "scfigi": "BBG001T45225",
+        "cfigi": "BBG000L05F33",
+        "figi": "BBG000L05F33"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AACEY"
+    },
+    {
+      "ticker": "AACG",
+      "name": "ATA Creativity Global American Depositary Shares",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NASDAQ",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000005347946",
+        "scfigi": "BBG001T125S9",
+        "cfigi": "BBG000V2S3P6",
+        "figi": "BBG000V2S9C7"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AACG"
+    },
+    {
+      "ticker": "AACH",
+      "name": "AAC HLDGS INC Common Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000036400807",
+        "scfigi": "BBG006T1NZ27",
+        "cfigi": "BBG006T1NZ18",
+        "figi": "BBG006T1NZK7"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AACH"
+    },
+    {
+      "ticker": "AACMF",
+      "name": "Asia Cement",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "TWD",
+      "active": true,
+      "primaryExch": "GREY",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0000899136"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AACMF"
+    },
+    {
+      "ticker": "AACOU",
+      "name": "Advancit Acquisition Corp. I Units",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NASDAQ",
+      "updated": "2021-03-27",
+      "url": "https://api.polygon.io/v2/tickers/AACOU"
+    },
+    {
+      "ticker": "AACQ",
+      "name": "Artius Acquisition Inc. Class A Common Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NASDAQ",
+      "updated": "2020-09-05",
+      "url": "https://api.polygon.io/v2/tickers/AACQ"
+    },
+    {
+      "ticker": "AACQU",
+      "name": "Artius Acquisition Inc. Unit",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NASDAQ",
+      "updated": "2020-07-15",
+      "url": "https://api.polygon.io/v2/tickers/AACQU"
+    },
+    {
+      "ticker": "AACQW",
+      "name": "Artius Acquisition Inc Warrant",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NASDAQ",
+      "updated": "2020-09-05",
+      "url": "https://api.polygon.io/v2/tickers/AACQW"
+    },
+    {
+      "ticker": "AACS",
+      "name": "American Commerce Solutions, Inc. Common Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0000949982",
+        "figiuid": "EQ0017977000001000",
+        "scfigi": "BBG001SBV1Z7",
+        "cfigi": "BBG000JVQ2Q9",
+        "figi": "BBG000JVQGV2"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AACS"
+    },
+    {
+      "ticker": "AACTF",
+      "name": "AURORA SOLAR TECHNOLOGIES INC  Common Shares",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000031867758",
+        "scfigi": "BBG001STZM33",
+        "cfigi": "BBG005BTJ9X6",
+        "figi": "BBG005BTJBD3"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AACTF"
+    },
+    {
+      "ticker": "AADR",
+      "name": "AdvisorShares Dorsey Wright ADR ETF",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "ARCA",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000010636243",
+        "scfigi": "BBG001T9B1Y4",
+        "cfigi": "BBG000BDYRW6",
+        "figi": "BBG000BDYVZ4"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AADR"
+    },
+    {
+      "ticker": "AAEEF",
+      "name": "Altair Res Inc Common Shares",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000021744067",
+        "scfigi": "BBG001SPCXW0",
+        "cfigi": "BBG002DMMHW5",
+        "figi": "BBG002DMMJC3"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAEEF"
+    },
+    {
+      "ticker": "AAFGF",
+      "name": "Anglo African Oil & Gas Plc",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000069767824",
+        "scfigi": "BBG00G50MZK4",
+        "cfigi": "BBG00MJW6WS3",
+        "figi": "BBG00MJW6X74"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAFGF"
+    },
+    {
+      "ticker": "AAFRF",
+      "name": "Airtel Africa Plc Ordinary Shares (United Kingdom)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-09-05",
+      "url": "https://api.polygon.io/v2/tickers/AAFRF"
+    },
+    {
+      "ticker": "AAGC",
+      "name": "All American Gold Corp. Common Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0001409430",
+        "figiuid": "EQ0000000010542876",
+        "scfigi": "BBG001T948W9",
+        "cfigi": "BBG000R4MM71",
+        "figi": "BBG000R4MXH6"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAGC"
+    },
+    {
+      "ticker": "AAGEF",
+      "name": "AAG ENERGY HLDGS LTD Ordinary Shares (Cayman Islands)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000051598860",
+        "scfigi": "BBG009CXGZ54",
+        "cfigi": "BBG00DRM6D17",
+        "figi": "BBG00DRM6DH0"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAGEF"
+    },
+    {
+      "ticker": "AAGFF",
+      "name": "Aftermath Silver Ltd Ordinary Shares",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000019703715",
+        "scfigi": "BBG001V0ZJL9",
+        "cfigi": "BBG001ZZWS68",
+        "figi": "BBG001ZZWSP7"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAGFF"
+    },
+    {
+      "ticker": "AAGGY",
+      "name": "AIA ENGR LTD  American Depositary Receipts - Unsponsored",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "GREY",
+      "updated": "2020-03-30",
+      "url": "https://api.polygon.io/v2/tickers/AAGGY"
+    },
+    {
+      "ticker": "AAGH",
+      "name": "America Great Health Common Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0001098009",
+        "figiuid": "EQ0000000025226539",
+        "scfigi": "BBG003443JG8",
+        "cfigi": "BBG003443HQ1",
+        "figi": "BBG003443J69"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAGH"
+    },
+    {
+      "ticker": "AAGIY",
+      "name": "AIA Group, Ltd. Sponsored American Depository Receipt (Hong Kong)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0001511634",
+        "figiuid": "EQ0000000017880229",
+        "scfigi": "BBG001V28NN4",
+        "cfigi": "BBG001R3QP52",
+        "figi": "BBG001R3QPN2"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAGIY"
+    },
+    {
+      "ticker": "AAGRY",
+      "name": "Astra Agro Lestari TBK PT Unsponsored ADR (Indonesia)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000010197651",
+        "scfigi": "BBG001T8KP46",
+        "cfigi": "BBG000KF9H79",
+        "figi": "BBG000KF9TW5"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAGRY"
+    },
+    {
+      "ticker": "AAHIF",
+      "name": "Asahi Co Ltd Osaka Ordinary Shares (Japan)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000001345721",
+        "scfigi": "BBG001SM5XQ2",
+        "cfigi": "BBG000Q9RDV9",
+        "figi": "BBG002JRGQZ2"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAHIF"
+    },
+    {
+      "ticker": "AAIC",
+      "name": "Arlington Asset Investment Corp.",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NYE",
+      "updated": "2020-10-27",
+      "url": "https://api.polygon.io/v2/tickers/AAIC"
+    },
+    {
+      "ticker": "AAIC-B",
+      "name": "Arlington Asset Investment Corp. 7.00% Series B Cumulative Perpetual Redeemable Preferred Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NYE",
+      "updated": "2020-10-27",
+      "url": "https://api.polygon.io/v2/tickers/AAIC-B"
+    },
+    {
+      "ticker": "AAIC-C",
+      "name": "Arlington Asset Investment Corp. 8.250% Series C Fixed-to-Floating Rate Cumulative Redeemable Prefer",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NYE",
+      "updated": "2020-10-27",
+      "url": "https://api.polygon.io/v2/tickers/AAIC-C"
+    },
+    {
+      "ticker": "AAIGF",
+      "name": "AIA Group, Ltd. Ordinary Shares (Hong Kong)",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0001511634",
+        "figiuid": "EQ0000000013430369",
+        "scfigi": "BBG001T6WWK4",
+        "cfigi": "BBG001BDZ212",
+        "figi": "BBG001BDZ2K1"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAIGF"
+    },
+    {
+      "ticker": "AAIIQ",
+      "name": "Alabama Aircraft Industries, Inc. Common Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0000771729",
+        "figiuid": "EQ0010602500001000",
+        "scfigi": "BBG001SD4Q88",
+        "cfigi": "BBG000HPGHW5",
+        "figi": "BBG000HPGVL6"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAIIQ"
+    },
+    {
+      "ticker": "AAINF",
+      "name": "Asiabasemetals Inc Common Shares",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000023629420",
+        "scfigi": "BBG001T517Z9",
+        "cfigi": "BBG002XRKG74",
+        "figi": "BBG002XRKGQ3"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAINF"
+    },
+    {
+      "ticker": "AAIR",
+      "name": "Avantair Inc",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "CVEM",
+      "updated": "2020-06-23",
+      "codes": {
+        "cik": "0001303849",
+        "figiuid": "EQ0000000001649169",
+        "scfigi": "BBG001S8CKX5",
+        "cfigi": "BBG000BJ3SD6",
+        "figi": "BBG000BJ3SD6"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAIR"
+    },
+    {
+      "ticker": "AAIRF",
+      "name": "American Aires Inc. Common Shares  Canada(CA )",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0000000081399693",
+        "scfigi": "BBG00L8QSZF3",
+        "cfigi": "BBG00RD2H0V8",
+        "figi": "BBG00RD2H191"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAIRF"
+    },
+    {
+      "ticker": "AAIT",
+      "name": "Al Anwar Hldgs",
+      "market": "STOCKS",
+      "locale": "US",
+      "currency": "OMR",
+      "active": true,
+      "primaryExch": "NSD",
+      "updated": "2020-06-23",
+      "codes": {
+        "figiuid": "EQ0018766400001000",
+        "scfigi": "BBG001S93KB7",
+        "cfigi": "BBG000H2KRY7",
+        "figi": "BBG000H2KSX6"
+      },
+      "url": "https://api.polygon.io/v2/tickers/AAIT"
+    }
+  ]
+}

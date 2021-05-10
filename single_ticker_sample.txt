@@ -1,0 +1,39 @@
+{
+  "logo": "https://s3.polygon.io/logos/tsla/logo.png",
+  "listdate": "2010-06-29",
+  "cik": "1318605",
+  "bloomberg": "EQ0000000003531703",
+  "figi": null,
+  "lei": null,
+  "sic": 3711,
+  "country": "usa",
+  "industry": "Autos",
+  "sector": "Consumer Cyclical",
+  "marketcap": 59838568121,
+  "employees": 37543,
+  "phone": "+1 650 681-5000",
+  "ceo": "Elon Musk",
+  "url": "https://www.tesla.com",
+  "description": "Tesla Inc is a vertically integrated sustainable energy company. It designs, develops, manufactures and sells high-performance fully electric vehicles and electric vehicle powertrain components.",
+  "exchange": "Nasdaq Global Select",
+  "name": "Tesla Inc.",
+  "symbol": "TSLA",
+  "exchangeSymbol": "NGS",
+  "hq_address": "3500 Deer Creek Road Palo Alto CA, 94304",
+  "hq_state": "CA",
+  "hq_country": "USA",
+  "type": "CS",
+  "updated": "11/16/2018",
+  "tags": [
+    "Consumer Cyclical",
+    "Auto Manufacturers",
+    "Autos"
+  ],
+  "similar": [
+    "HMC",
+    "TM",
+    "F",
+    "GM"
+  ],
+  "active": true
+}
